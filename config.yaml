@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: "https://ankurjamwal.netlify.app/"
 languageCode: en-us
 title: Ankur's Website
 theme: hugo-lithium
